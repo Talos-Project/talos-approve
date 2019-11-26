@@ -1,0 +1,28 @@
+{
+  "name": "talos-approve",
+  "version": "0.1.0",
+  "description": "Approve plugin for Talos",
+  "main": "./dist/Approve.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspartame21/talos-approve.git"
+  },
+  "keywords": [
+    "plugin",
+    "approve",
+    "talos"
+  ],
+  "author": "Nijat Mahmudov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aspartame21/talos-approve/issues"
+  },
+  "homepage": "https://github.com/aspartame21/talos-approve#readme",
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "tsc": "^1.20150623.0"
+  }
+}
